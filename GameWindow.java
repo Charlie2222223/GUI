@@ -33,7 +33,6 @@ public class GameWindow extends JFrame  implements KeyListener{
 
 		Title = tl;
 
-
 		addKeyListener(this);
 
 	}
